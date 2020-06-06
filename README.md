@@ -13,5 +13,5 @@ verändern.
 
 ## Autoren
 ---
-* Stefan Daniel Grunbach
+* Stefan Daniel Grunmach
 * Roman Haak
